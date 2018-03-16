@@ -58,8 +58,9 @@ To see the result in the browser enter the below command.
 
 It will start execute and open the browser by default in port 3000. 
 
-![image](https://user-images.githubusercontent.com/6780840/37518548-9522d54c-293b-11e8-96cb-247396695d4f.png)
-
 And finally this is the output you can see in the browser.
+
+![image](https://user-images.githubusercontent.com/6780840/37519232-547310d6-293e-11e8-8a56-1af102a48433.png)
+
 
 happy coding :smile:
